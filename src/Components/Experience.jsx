@@ -33,7 +33,7 @@ function Experience() {
               <div className="absolute -top-4 -right-4 w-full h-full bg-[#ECA76E] -z-10"></div>
               <img
                 src={image3}
-                className="w-[350px] h-full object-cover shadow-lg"
+                className="w-[350px] h-[450px] object-cover"
               />
             </div>
           </div>
