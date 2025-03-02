@@ -50,21 +50,21 @@ function Navbar() {
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1">
-            <li>
-              <a>Home</a>
-            </li>
-            <li>
-              <a>About</a>
-            </li>
-            <li>
-              <a>Service</a>
-            </li>
-            <li>
-              <a>Project</a>
-            </li>
-            <li>
-              <a>Blog</a>
-            </li>
+          <li>
+                <a>Home</a>
+              </li>
+              <li>
+                <a>About</a>
+              </li>
+              <li>
+                <a>Service</a>
+              </li>
+              <li>
+                <a>Project</a>
+              </li>
+              <li>
+                <a>Blog</a>
+              </li>
           </ul>
         </div>
         <div className="navbar-end">
