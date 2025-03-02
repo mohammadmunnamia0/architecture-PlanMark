@@ -2,6 +2,7 @@ import TeamMember1 from "../assets/Team/t1.png"
 import TeamMember2 from "../assets/Team/t2.png"
 import TeamMember3 from "../assets/Team/t3.png"
 import TeamMember4 from "../assets/Team/t4.png"
+import bg from "../assets/Team/Rectangle.png"
 import { useState } from "react";
 import {
   FaFacebookF,
@@ -59,7 +60,7 @@ function Team() {
                 )}
 
                 {/* Main Image */}
-                <img className="pt-7" src="/src/assets/Rectangle.png" alt="Main" />
+                <img className="pt-7" src={bg} alt="Main" />
               </div>
 
               {/* Name and Title */}

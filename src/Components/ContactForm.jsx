@@ -45,7 +45,7 @@ const ContactForm= () => {
             <img 
             src={image2}
             alt="Interior design" 
-          className="w-[220px] lg:w-[320px] g:h-[320px] object-cover rounded-2xl "
+          className="w-[220px] lg:w-[320px] lg:h-[320px] object-cover rounded-2xl "
           />
         </div>
         
