@@ -17,7 +17,7 @@ function Banner() {
           <p className="mt-6 mb-8 text-lg sm:mb-12">
             There are many variations of passages of Lorem Ipsum available, but
             the majority have suffered alteration in some form, by injected
-            humour, or randomised words which
+            humour, or radomised words which
           </p>
           <div className="flex flex-col space-y-4 sm:items-center sm:justify-center sm:flex-row sm:space-y-0 sm:space-x-4 lg:justify-start">
             <a
